@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin when working with collections: potential null pointer exceptions within the `reduce` function.  The `Bug.kt` file shows the flawed code, and the `BugSolution.kt` file demonstrates how to correctly handle potential null values using `reduceOrNull` and other best practices.
